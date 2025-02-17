@@ -1,0 +1,10 @@
+About Dataset
+Data Analysis and visualization on Zomato Dataset
+
+Name: Restaurant name
+online_order: if the order is online or offline (yes/no)
+book_table
+rate
+votes
+approx_cost(for two people)
+listed_in(type)
